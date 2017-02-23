@@ -1,5 +1,3 @@
-
-
 class HolidayConstructor {
   constructor() {
     this.options = [
